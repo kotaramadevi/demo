@@ -1,2 +1,3 @@
-learning git 
-by jagadeesh
+echo "this is my 2nd project by git hub"
+echo " ip address of my server is:`ifconfig`
+echo "'date`"
